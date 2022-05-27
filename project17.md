@@ -30,3 +30,25 @@
 ![](images/terraformplan66.png)
 
 ![](images/terraformplan666.png)
+
+- created igw and nat-gateway resources
+- added their tags
+- populated the variables
+- plotted a graph of the infrastructure
+- ran the plan command 
+
+![](images/natgweip7.png)
+
+![](images/igw77.png)
+
+![](images/variablestf777.png)
+
+![](images/tfvars7777.png)
+
+![](images/graphpreview7.png)
+
+![](images/terraformplan77777.png)
+
+![](images/terraformplann77777.png)
+
+![](images/terraformplannn77777.png)
