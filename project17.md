@@ -88,3 +88,39 @@
 ![](images/terraformapplyrtb10.png)
 
 ![](images/terraformapplysubnets10.png)
+
+- created route53 hosted zones
+- requested a certificate from aws certificate manager
+- created internet facing and internal load balancers
+- created security groups
+- created target groups
+- populated the variables in the necessary files
+- ran the plan and apply command
+
+![](images/route53hostedzone11.png)
+
+![](images/certtf11.png)
+
+![](images/certtff11.png)
+
+![](images/securitytf111.png)
+
+![](images/albtf1111.png)
+
+![](images/terraformplan11.png)
+
+![](images/terraformplan111.png)
+
+![](images/terraformapply11.png)
+
+![](images/terraformapply111.png)
+
+![](images/awscertificatemanager11.png)
+
+![](images/loadbalancers11.png)
+
+![](images/loadbalancersrules11.png)
+
+![](images/securitygroups11.png)
+
+![](images/targetgroup11.png)
