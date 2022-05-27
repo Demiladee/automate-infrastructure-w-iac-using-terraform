@@ -124,3 +124,44 @@
 ![](images/securitygroups11.png)
 
 ![](images/targetgroup11.png)
+
+- created nginx, webserver and bastion auto scaling group
+- created their launch templates and target groups
+- created bastion, wordpress, tooling, etc script files
+- created roles for them
+- populated the variables
+- ran plan and apply command
+
+![](images/asgnginxwebserver12bfeorevariables12.png)
+
+![](images/asgwebserveraftervariablesnginx12.png)
+
+![](images/rolestf12.png)
+
+![](images/variabletfbeforeasgnginx121.png)
+
+![](images/variabletfvarsbeforeasgnginx1212.png)
+
+![](images/wordpressaftereverythingbutinapply12.png)
+
+![](images/toolingaftereverythingbutinapply12.png)
+
+![](images/nginxhaftereverythingbutinapply12.png)
+
+![](images/outputstfafterwebserverstgt12.png)
+
+![](images/bastionshaftereverythingbutinapply12.png)
+
+![](images/terraformplan12.png)
+
+![](images/terraformplan1212.png)
+
+![](images/terraformapply12.png)
+
+![](images/terraformapply1212.png)
+
+![](images/autoscalinggroups12.png)
+
+![](images/instances12.png)
+
+![](images/launchtemplates12.png)
