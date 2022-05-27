@@ -52,3 +52,39 @@
 ![](images/terraformplann77777.png)
 
 ![](images/terraformplannn77777.png)
+
+- created private and public rtbs
+- ran the terraform plan and apply command
+- confirmed my resources were created
+
+![](images/rtb8.png)
+
+![](images/rtb88.png)
+
+![](images/terraformplan9.png)
+
+![](images/terraformplan99.png)
+
+![](images/terraformplan999.png)
+
+![](images/terraformplan9999.png)
+
+![](images/terraformplan999999.png)
+
+![](images/terraformapply10.png)
+
+![](images/terraformapply1010.png)
+
+![](images/terraformapply101010.png)
+
+![](images/terraformapplyvpc10.png)
+
+![](images/terraformapplyeip10.png)
+
+![](images/terraformapplyigw10.png)
+
+![](images/terraformapplynatgw10.png)
+
+![](images/terraformapplyrtb10.png)
+
+![](images/terraformapplysubnets10.png)
