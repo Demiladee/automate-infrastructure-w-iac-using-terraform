@@ -165,3 +165,34 @@
 ![](images/instances12.png)
 
 ![](images/launchtemplates12.png)
+
+- created efs file
+- created rds
+- generated kms key
+- created rds subnet group and efs mount point
+- populated the variables
+- ran the plan and apply command 
+
+![](images/efstf13.png)
+
+![](images/rdstf13.png)
+
+![](images/variablestfiamaccountnumbermasterpassword13.png)
+
+![](images/tfvarsaccountnumber13.png)
+
+![](images/terraformplan13.png)
+
+![](images/terraformplan131.png)
+
+![](images/terraformapply13.png)
+
+![](images/terraformapply131.png)
+
+![](images/efs13.png)
+
+![](images/efsaccesspoint13.png)
+
+![](images/rdsdb13.png)
+
+![](images/rdssubnetgroup13.png)
